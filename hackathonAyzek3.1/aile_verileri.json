@@ -1,0 +1,76 @@
+{
+  "aileler": [
+    {
+      "id": 1,
+      "kisi_sayisi": 3,
+      "bireyler": [
+        { "isim": "Zeynep", "yas": 36, "dus_suresi": 15, "dis_firca": 2 },
+        { "isim": "Arda", "yas": 38, "dus_suresi": 13, "dis_firca": 2 },
+        { "isim": "Efe", "yas": 10, "dus_suresi": 11, "dis_firca": 2 }
+      ],
+      "bulasik_makinesi": true,
+      "camasir_sikligi": 3,
+      "bahce": false,
+      "araba": false
+    },
+    {
+      "id": 2,
+      "kisi_sayisi": 4,
+      "bireyler": [
+        { "isim": "Mert", "yas": 40, "dus_suresi": 17, "dis_firca": 2 },
+        { "isim": "Selin", "yas": 37, "dus_suresi": 15, "dis_firca": 2 },
+        { "isim": "Burak", "yas": 12, "dus_suresi": 14, "dis_firca": 2 },
+        { "isim": "Asya", "yas": 7, "dus_suresi": 13, "dis_firca": 2 }
+      ],
+      "bulasik_makinesi": false,
+      "camasir_sikligi": 5,
+      "bahce": true,
+      "araba": false
+    },
+    {
+      "id": 3,
+      "kisi_sayisi": 4,
+      "bireyler": [
+        { "isim": "Elif", "yas": 33, "dus_suresi": 12, "dis_firca": 1.5 },
+        { "isim": "Ahmet", "yas": 35, "dus_suresi": 13, "dis_firca": 2 },
+        { "isim": "Öykü", "yas": 8, "dus_suresi": 11, "dis_firca": 1 },
+        { "isim": "Kerem", "yas": 6, "dus_suresi": 10, "dis_firca": 1.5 }
+      ],
+      "bulasik_makinesi": true,
+      "camasir_sikligi": 4,
+      "bahce": false,
+      "araba": false
+    },
+    {
+      "id": 4,
+      "kisi_sayisi": 5,
+      "bireyler": [
+        { "isim": "Yaren", "yas": 42, "dus_suresi": 18, "dis_firca": 2.5 },
+        { "isim": "Emir", "yas": 43, "dus_suresi": 17, "dis_firca": 2.5 },
+        { "isim": "Deniz", "yas": 16, "dus_suresi": 16, "dis_firca": 2 },
+        { "isim": "Baran", "yas": 13, "dus_suresi": 15, "dis_firca": 2.5 },
+        { "isim": "Derin", "yas": 9, "dus_suresi": 15, "dis_firca": 2 }
+      ],
+      "bulasik_makinesi": false,
+      "camasir_sikligi": 6,
+      "bahce": false,
+      "araba": true
+    },
+    {
+      "id": 5,
+      "kisi_sayisi": 6,
+      "bireyler": [
+        { "isim": "Ayşe", "yas": 39, "dus_suresi": 14, "dis_firca": 2 },
+        { "isim": "Can", "yas": 41, "dus_suresi": 16, "dis_firca": 2 },
+        { "isim": "Melis", "yas": 17, "dus_suresi": 15, "dis_firca": 2 },
+        { "isim": "Batu", "yas": 14, "dus_suresi": 13, "dis_firca": 2 },
+        { "isim": "Duru", "yas": 11, "dus_suresi": 12, "dis_firca": 2 },
+        { "isim": "Alp", "yas": 7, "dus_suresi": 11, "dis_firca": 2 }
+      ],
+      "bulasik_makinesi": true,
+      "camasir_sikligi": 7,
+      "bahce": true,
+      "araba": true
+    }
+  ]
+}

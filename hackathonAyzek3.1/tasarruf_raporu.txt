@@ -1,0 +1,44 @@
+1. **Su Tasarruf Önerileri:**
+
+   - **Zeynep için:** Duş süresini 10 dakikaya indirerek her seferinde 50 litre tasarruf edebilir.
+   - **Arda için:** Duş süresini 10 dakikaya indirerek her seferinde 30 litre tasarruf edebilir.
+   - **Efe için:** Duş süresini 8 dakikaya indirerek her seferinde 30 litre tasarruf edebilir.
+   
+   Tüm aile bireyleri diş fırçalama sırasında musluğu kapatarak toplamda günde 10-15 litre tasarruf edebilir.
+
+2. **Ailenin Toplam Günlük Su Tüketimi:**
+
+   - Zeynep'in duş suyu tüketimi: 15 dakika * 10 litre/dakika = 150 litre
+   - Arda'nın duş suyu tüketimi: 13 dakika * 10 litre/dakika = 130 litre
+   - Efe'nin duş suyu tüketimi: 11 dakika * 10 litre/dakika = 110 litre
+   - Diş fırçalama sırasında kullanılan su (3 kişi * 2 kez * 5 litre): 30 litre
+
+   Toplam duş ve diş fırçalama su tüketimi = 150 + 130 + 110 + 30 = 420 litre
+
+   Günlük ortalama tüketim kişi başı 150 litre olduğuna göre ailenin geri kalan tüketimi:
+   - Günlük diğer su tüketimi = 3 kişi * 150 litre - duş ve diş fırçalama tüketimi
+   - Diğer su tüketimi = 3 * 150 - 420 = 30 litre
+
+   Toplam günlük su tüketimi = 420 + 30 = 450 litre
+
+3. **Günlük Maliyet Hesaplaması:**
+
+   - 450 litre su = 0.45 m³
+   - Maliyet: 0.45 m³ * 25 TL/m³ = 11.25 TL
+
+4. **Aylık Tasarruf Tahmini:**
+
+   - Zeynep duş süresini 10 dakikaya indirirse günlük 50 litre, ayda 1500 litre tasarruf:
+     - 1500 litre = 1.5 m³, maliyet: 1.5 * 25 TL = 37.5 TL
+   - Arda duş süresini 10 dakikaya indirirse günlük 30 litre, ayda 900 litre tasarruf:
+     - 900 litre = 0.9 m³, maliyet: 0.9 * 25 TL = 22.5 TL
+   - Efe duş süresini 8 dakikaya indirirse günlük 30 litre, ayda 900 litre tasarruf:
+     - 900 litre = 0.9 m³, maliyet: 0.9 * 25 TL = 22.5 TL
+   - Diş fırçalama sırasında musluk kapatma tasarrufu, ayda yaklaşık 300 litre (10 litre/gün):
+     - 300 litre = 0.3 m³, maliyet: 0.3 * 25 TL = 7.5 TL
+
+   Toplam aylık tahmini tasarruf = 37.5 + 22.5 + 22.5 + 7.5 = 90 TL
+
+5. **Konya’daki Su Durumu İçin Genel Tavsiye:**
+   
+   Konya’daki su durumu kritik seviyeye yakın olduğu için hem bireysel hem de toplumsal boyutta su tasarrufu önceliklendirilmelidir. Bireylerin günlük su tüketim alışkanlıklarını gözden geçirerek gereksiz kullanımlardan kaçınması büyük önem taşıyor. Ayrıca yerel yönetimlerin yanı sıra halkın da bilinçlendirilmesi için eğitim programları düzenlenebilir. Altyapı iyileştirmeleri ve suyu etkin kullanımı teşvik eden politikalar da elzemdir. Tasarruflu su armatürleri kullanmak ve toplu taşıma araçlarını tercih etmek gibi su korunmasına katkı sağlayan diğer sürdürülebilir davranışlar teşvik edilmelidir.
